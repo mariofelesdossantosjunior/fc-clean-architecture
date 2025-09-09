@@ -77,7 +77,7 @@ npm test
 
 ---
 
-🧪 Testes
+## 🧪 Testes
 O projeto utiliza Jest e Supertest.
 Para rodar os testes:
 
@@ -87,7 +87,7 @@ npm test
 
 ---
 
-📜 Licença
+## 📜 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
